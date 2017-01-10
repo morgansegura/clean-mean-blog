@@ -1,2 +1,6 @@
 # clean-mean-blog
-A case study on building a dynamic, full stack Javascript app with the MEAN stack, Gulp, Sass and Browserify, using best practices and industry standards.
+A dynamic, full stack Javascript boilerplate built using MEAN stack, Gulp, Sass and Browserify and more, using best practices and industry standards.
+
+## TODOs:
+1. Install express
+2. Install and setup MongoDB
