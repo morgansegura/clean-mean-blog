@@ -1,0 +1,28 @@
+{
+  "name": "cmb",
+  "version": "1.0.0",
+  "description": "A dynamic, full stack Javascript boilerplate built using MEAN stack, Gulp, Sass, Browserify and more using best practices and industry standards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morgansegura/clean-mean-blog.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "ExpressJs",
+    "AngularJs",
+    "NodeJs",
+    "Gulp",
+    "Sass",
+    "Browserify."
+  ],
+  "author": "Morgan Segura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morgansegura/clean-mean-blog/issues"
+  },
+  "homepage": "https://github.com/morgansegura/clean-mean-blog#readme"
+}
